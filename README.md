@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="right">
+    <img src="me.png" alt="Me" width="50%">
+</div>
+
 <!--
 **JeremyDolle/JeremyDolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
