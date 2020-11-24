@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="right">
-    <img src="me.png" alt="Me" width="50%">
+    <img src="me-profile.png" alt="Me" width="50%">
 </div>
 
 <!--
