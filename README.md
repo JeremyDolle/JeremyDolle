@@ -21,7 +21,6 @@
 Hi, I'm Jérémy Dollé, from France 🇫🇷. I'm a fullstack web and mobile developer with a high affinity to front-end 🙃.
 
 <br />
-<br />
 
 <img align="right" src="me-profile.png" alt="Me" width="400px">
 
