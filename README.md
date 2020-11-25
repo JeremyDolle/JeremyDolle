@@ -16,15 +16,19 @@
 </a>
 
 <br />
+<br />
 
-Hi, I'm Jérémy Dollé, from France 
+Hi, I'm Jérémy Dollé, from France 🇫🇷. I'm a fullstack web and mobile developer with a high affinity to front-end 🙃.
 
-<img align="right" src="me-profile.png" alt="Me" width="300px">
+<br />
+<br />
+
+<img align="right" src="me-profile.png" alt="Me" width="400px">
 
 **Talking about Personal Stuffs:**
 
 - ‍👨‍💻 I’m currently working on these main projects :
-  - [VueBoBuilder](https://github.com/JeremyDolle/VuejsBOBuilder) <img src="https://github.com/JeremyDolle/VuejsBOBuilder/raw/master/src/assets/images/logo_colored.png" alt="BOB" width="30px" height="30px">
+  - [VueBoBuilder](https://github.com/JeremyDolle/VuejsBOBuilder) <img src="https://github.com/JeremyDolle/VuejsBOBuilder/raw/master/src/assets/images/logo_colored.png" alt="BOB" width="35px" height="30px">
   - [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) <img src="https://thecodingmachine.github.io/react-native-boilerplate/img/TOM.png" alt="RNB" width="30px" height="30px">
   - [redux-toolkit-wrapper](https://github.com/thecodingmachine/redux-toolkit-wrapper)
   - [react-native-workshop](https://github.com/thecodingmachine/react-native-workshop) <img src="https://github.com/thecodingmachine/react-native-workshop/blob/master/App/Assets/Images/TOM.png" alt="RNW" width="30px" height="30px">
@@ -37,6 +41,7 @@ Hi, I'm Jérémy Dollé, from France
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
