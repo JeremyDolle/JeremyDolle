@@ -19,7 +19,7 @@
 
 Hi, I'm Jérémy Dollé, from France 
 
-<img src="me-profile.png" alt="Me" width="70%">
+<img align="right" src="me-profile.png" alt="Me" width="70%">
 
 **Talking about Personal Stuffs:**
 
