@@ -28,12 +28,6 @@ Hi, I'm Jérémy Dollé, from France 🇫🇷. I'm a fullstack web and mobile de
 
 - ‍👨‍💻 I’m currently working on these main projects :
   - [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) <img src="https://thecodingmachine.github.io/react-native-boilerplate/img/TOM.png" alt="RNB" width="30px" height="30px">
-  - [rnb-plugin-typescript](https://github.com/thecodingmachine/rnb-plugin-typescript) <img src="https://thecodingmachine.github.io/react-native-boilerplate/img/TOM.png" alt="RNB" width="30px" height="30px">
-  - [redux-toolkit-wrapper](https://github.com/thecodingmachine/redux-toolkit-wrapper) <img src="https://raw.githubusercontent.com/thecodingmachine/redux-toolkit-wrapper/master/logo.png" alt="RNW" width="95px" height="30px">
-  - [react-native-workshop](https://github.com/thecodingmachine/react-native-workshop) <img src="https://github.com/thecodingmachine/react-native-workshop/blob/master/App/Assets/Images/TOM.png" alt="RNW" width="30px" height="30px">
-  - [VueBoBuilder](https://github.com/JeremyDolle/VuejsBOBuilder) <img src="https://github.com/JeremyDolle/VuejsBOBuilder/raw/master/src/assets/images/logo_colored.png" alt="BOB" width="35px" height="30px">
-- ⚙️ I’m currently learning GraphQL; 
-- 📥 I plan to try [nest](https://github.com/nestjs/nest); 
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
