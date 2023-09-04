@@ -27,7 +27,7 @@ Hi, I'm Jérémy Dollé, from France 🇫🇷. I'm a fullstack web and mobile de
 **Talking about Personal Stuffs:**
 
 - ‍👨‍💻 I’m currently working on these main projects :
-  - [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) <img src="https://thecodingmachine.github.io/react-native-boilerplate/img/TOM.png" alt="RNB" width="30px" height="30px">
+  - [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) <img src="https://thecodingmachine.github.io/react-native-boilerplate/documentation/static/img/tom_light.png" alt="RNB" width="30px" height="30px">
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
