@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-doll%C3%A9-24213b115/">
   <img align="left" alt="Jeremy's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jeremy_dolle/">
-  <img align="left" alt="Jeremy's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://www.reddit.com/user/JeremyDolle/">
   <img align="left" alt="Jeremy's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
